@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ROHIT PANWAR</h1>
 <h3 align="center">A passionate frontend developer & Learner</h3>
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+<img align="right" alt="coding" width="350" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rawhit02&label=Profile%20views&color=0e75b6&style=flat" alt="rawhit02" /> </p>
 
@@ -17,7 +17,6 @@
 
 - 📫 How to reach me **rohit.panwarr22@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1gTS_1SUYMaYtBBeHsOqJra1fCjgQBnKH/view?usp=share_link](https://drive.google.com/file/d/1gTS_1SUYMaYtBBeHsOqJra1fCjgQBnKH/view?usp=share_link)
 
 - ⚡ Fun fact **I Travel a Lot nearby Places where i Live**
 
