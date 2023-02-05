@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ROHIT PANWAR</h1>
 <h3 align="center">A passionate frontend developer & Learner</h3>
 
-<img align="right" alt="Code" width="400" src="![image](https://user-images.githubusercontent.com/107709247/216838409-c7453d0a-8a59-4d16-bac4-625b07e749dd.png)">
+<img align="right" alt="Code" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raawhit02&label=Profile%20views&color=0e75b6&style=flat" alt="raawhit02" /> </p>
 
