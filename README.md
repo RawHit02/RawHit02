@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ROHIT PANWAR</h1>
 <h3 align="center">A passionate frontend developer & Learner</h3>
 
-<img align="right" alt="Code" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F311381761734186207%2F&psig=AOvVaw0Aj2vw6o5L-AtEwCup-CEb&ust=1675708281743000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCPji_viB__wCFQAAAAAdAAAAABAe">
+<img align="right" alt="Code" width="400" src="![image](https://user-images.githubusercontent.com/107709247/216838409-c7453d0a-8a59-4d16-bac4-625b07e749dd.png)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raawhit02&label=Profile%20views&color=0e75b6&style=flat" alt="raawhit02" /> </p>
 
