@@ -32,9 +32,8 @@
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) 
 
-# 📊 GitHub Stats:
-<p><a href="https://www.buymeacoffee.com/@rohit_panwar"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60" width="180" alt="@rohit_panwar" /></a></p><br><br>
-<br>
+# 📊 GitHub Stats          
 ![](https://github-readme-stats.vercel.app/api?username=RawHit02&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RawHit02&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RawHit02&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<p><a href="https://www.buymeacoffee.com/@rohit_panwar"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60" width="180" alt="@rohit_panwar" /></a></p><br>          
