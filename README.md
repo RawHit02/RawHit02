@@ -1,5 +1,14 @@
-<h1 align="center">Hi 👋, I'm ROHIT PANWAR</h1>
-<h3 align="center">A passionate frontend developer & Learner</h3>
+<div align=center>
+      
+![Profile Views](https://komarev.com/ghpvc/?username=RawHit02)
+      </div>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=46&pause=10000&color=FF7722&center=true&vCenter=true&width=600&height=100&lines=Hi 👋, I'm ROHIT PANWAR!">
+  </a>
+</h1>
+<h3 align="center">A Multilingual FullStack Developer</h3>
+
 
 <img align="right" alt="coding" width="420" src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
 
