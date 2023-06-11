@@ -36,7 +36,8 @@
 <p><a href="https://www.buymeacoffee.com/@rohit_panwar"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60" width="180" alt="@rohit_panwar" /></a></p><br><br>
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rawhit02&show_icons=true&locale=en&layout=compact" alt="rawhit02" /></p>
-
+<br>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=rawhit02&show_icons=true&locale=en" alt="rawhit02" /></p>
-
+<br>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rawhit02&" alt="rawhit02" /></p>
+<br>
