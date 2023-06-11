@@ -12,9 +12,9 @@
 
 
 
-- 🔭 I’m currently working on [DSA](https://leetcode.com/rohitroody47/)
+- 🔭 Currently working on [DSA](https://leetcode.com/rohitroody47/)
 
-- 🌱 I’m currently learning **JAVA DSA and 3D Tools**
+- 🌱 Parrallely learning **JAVA DSA and U.Interfaces**
 
 - 💻 Working on Development [Backend & Frontend](https://rawhit02.github.io/kaps/)
 
