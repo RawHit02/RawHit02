@@ -27,16 +27,16 @@
 
 
 # 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harshagarwal_1102/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-agarwal4404/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rohit_panwar_.__/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohit-panwar-/) 
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) 
 
 # 📊 GitHub Stats:
-<p><a href="https://www.buymeacoffee.com/@rohit_panwar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="@rohit_panwar" /></a></p><br><br>
-
+<p><a href="https://www.buymeacoffee.com/@rohit_panwar"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60" width="180" alt="@rohit_panwar" /></a></p><br><br>
+<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rawhit02&show_icons=true&locale=en&layout=compact" alt="rawhit02" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rawhit02&show_icons=true&locale=en" alt="rawhit02" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=rawhit02&show_icons=true&locale=en" alt="rawhit02" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rawhit02&" alt="rawhit02" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rawhit02&" alt="rawhit02" /></p>
