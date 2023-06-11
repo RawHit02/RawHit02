@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=40&pause=10000&color=FF7722&center=true&vCenter=true&width=600&height=200&lines=Hi👋, ROHIT This Side!">
+    <img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=30&pause=10000&color=FF7722&center=true&vCenter=true&width=700&height=300&lines= Hi👋, ROHIT This Side!">
   </a>
 </h1>
 <h3 align="center">A Multilingual FullStack Developer</h3>
