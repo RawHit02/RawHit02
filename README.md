@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ROHIT PANWAR</h1>
 <h3 align="center">A passionate frontend developer & Learner</h3>
 
-<img align="right" alt="coding" width="350" src="[https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif](https://img.etimg.com/thumb/msid-84146056,width-1200,height-900,imgsize-638053,resizemode-8/20210706_developer-economy_01.jpg)">
+<img align="right" alt="coding" width="350" src="[[https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif](https://img.etimg.com/thumb/msid-84146056,width-1200,height-900,imgsize-638053,resizemode-8/20210706_developer-economy_01.jpg)"](https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC)>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rawhit02&label=Profile%20views&color=0e75b6&style=flat" alt="rawhit02" /> </p>
 
