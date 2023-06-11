@@ -1,4 +1,4 @@
-<img align="center" alt="coding" width="200" src="[https://img.etimg.com/thumb/msid-84146083,width-1015,height-,imgsize-638053,resizemode-8/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg](https://images.squarespace-cdn.com/content/v1/51fb0e6ee4b0dfbd7918866c/1443748012334-9XOFTX5DC3U38LZ7QB2S/image-asset.gif?format=500w)">
+<img align="center" alt="coding" width="300" height="200" src="https://res.cloudinary.com/jerrick/image/upload/v1551215986/vhzgzjsfma4jvruhk6un.gif">
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=40&pause=10000&color=FF7722&center=true&vCenter=true&width=600&height=200&lines=Hi👋, ROHIT This Side!">
