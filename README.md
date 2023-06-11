@@ -8,7 +8,7 @@
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rawhit02&label=Profile%20views&color=0e75b6&style=flat" alt="rawhit02" /> </p>
 <hr>
-<img align="right" alt="coding" width="420" src="https://img.etimg.com/thumb/msid-84146083,width-400,height-340,imgsize-638053,resizemode-8/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
+<img align="right" alt="coding" width="420" src="https://img.etimg.com/thumb/msid-84146083,width-440,height-260,imgsize-638053,resizemode-8/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
 
 
 
