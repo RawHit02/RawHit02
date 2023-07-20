@@ -2,6 +2,14 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=46&pause=10000&color=F78449FF&center=true&vCenter=true&width=600&height=100&lines=Hi+👋+Rohit+Here!">
   </a>
+
+  <p align="right">
+ 
+  <a href="https://drive.google.com/file/d/1pjVrkYHvCMjRV1PDzOTG5wH3hKG_bjJQ/view?usp=sharing" style="text-decoration: none; margin-left: 10px;">
+    <img src="https://img.icons8.com/?size=512&id=44834&format=png" alt="Resume" width="80px" height="100px" style="vertical-align: middle;" />
+    Resume
+  </a>
+</p>
   
 </h1>
 <h3 align="center">A Multilingual FullStack Developer <br></h3>
