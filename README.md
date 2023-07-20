@@ -6,13 +6,13 @@
   <p align="right">
  
   <a href="https://drive.google.com/file/d/1pjVrkYHvCMjRV1PDzOTG5wH3hKG_bjJQ/view?usp=sharing" style="text-decoration: none; margin-left: 10px;">
-    <img src="https://img.icons8.com/?size=512&id=44834&format=png" alt="Resume" width="80px" height="100px" style="vertical-align: middle;" />
+    <img src="https://img.icons8.com/?size=512&id=44834&format=png" alt="Resume" width="70px" height="80px" style="vertical-align: middle;" />
     Resume
   </a>
 </p>
   
 </h1>
-<h3 align="center">A Multilingual FullStack Developer <br></h3>
+<h2 align="center">A Multilingual FullStack Developer <br></h2>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rawhit02&label=Profile%20views&color=0e75b6&style=flat" alt="rawhit02" /> </p>
 <hr>
