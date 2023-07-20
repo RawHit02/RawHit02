@@ -6,7 +6,7 @@
   <p align="right">
  
   <a href="https://drive.google.com/file/d/1pjVrkYHvCMjRV1PDzOTG5wH3hKG_bjJQ/view?usp=sharing" style="text-decoration: none; margin-left: 10px;">
-    <img src="https://img.icons8.com/?size=512&id=44834&format=png" alt="Resume" width="50px" height="70px" style="vertical-align: middle;" />
+    <img src="https://img.icons8.com/?size=512&id=44834&format=png" alt="Resume" width="55px" height="65px" style="vertical-align: middle;" />
     Resume
   </a>
 </p>
