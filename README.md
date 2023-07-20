@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=46&pause=10000&color=0000000&center=true&vCenter=true&width=600&height=100&lines=Hi+👋+Rohit+Here!">
+    <img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=46&pause=10000&color=F78449FF&center=true&vCenter=true&width=600&height=100&lines=Hi+👋+Rohit+Here!">
   </a>
   
 </h1>
@@ -8,7 +8,8 @@
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rawhit02&label=Profile%20views&color=0e75b6&style=flat" alt="rawhit02" /> </p>
 <hr>
-<img align="right" alt="coding" width="440" src="https://img.etimg.com/thumb/msid-84146083,width-440,height-265,imgsize-638053,resizemode-8/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
+
+<img align="right" alt="coding" width="460" src="https://ozoneunited.com/wp-content/uploads/2023/03/animation_640_ldvo3nr6-min-1.gif">
 
 
 
