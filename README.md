@@ -27,7 +27,7 @@
 
 - 💻 Working on Development [Backend & Frontend](https://rawhit02.github.io/kaps/)
 
-- 👨‍💻 All of my projects are available at (https://github.com/RawHit02?tab=repositories)
+- 👨‍💻 All of my projects are available at  : https://github.com/RawHit02?tab=repositories
 
 - 💬 Ask me about **Anything happening in life**
 
