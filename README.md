@@ -47,4 +47,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=RawHit02&theme=light&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RawHit02&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RawHit02&theme=light&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-<p><a href="[https://www.buymeacoffee.com/@rohit_panwa](https://bmc.link/rohit13)r"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60" width="180" /></a></p><br>          
