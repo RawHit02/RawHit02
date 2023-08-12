@@ -17,7 +17,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rawhit02&label=Profile%20views&color=0e75b6&style=flat" alt="rawhit02" /> </p>
 <hr>
 
-<img align="right" alt="coding" width="460" src="https://ozoneunited.com/wp-content/uploads/2023/03/animation_640_ldvo3nr6-min-1.gif">
+<img align="right" alt="coding" width="420" src="https://ozoneunited.com/wp-content/uploads/2023/03/animation_640_ldvo3nr6-min-1.gif">
 
 
 
