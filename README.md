@@ -1,16 +1,15 @@
 <h1 align="center"; color=red;>Hey, Rohit This Side :wave:
-
-<p align="right">
-  <a href="https://drive.google.com/file/d/1pjVrkYHvCMjRV1PDzOTG5wH3hKG_bjJQ/view?usp=sharing" style="text-decoration: none; margin-left: 10px;">
-    <img src="https://img.icons8.com/?size=512&id=44834&format=png" alt="Resume" width="55px" height="65px" style="vertical-align: middle;" />
-     Resume </a>
-</p>
+  <br><br>
 <img align="center" alt="coding" width="600" height="200" src="https://imgs.search.brave.com/3sG03PYb04E9KGWf1stpEeMOitXpwKw_1Cf0QlAOuao/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pMC53/cC5jb20vY2RuLmRy/aWJiYmxlLmNvbS91/c2Vycy8xNzYwMzkv/c2NyZWVuc2hvdHMv/OTAyMjkyOS9tZWRp/YS9iMjEzOTJkNTEz/NTVkOTljN2I4MmE1/ZmVkZjJjNGY4NS5n/aWY.gif" style="border-radius: 15px;">
-<br>
 <br>
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
+  <p align="right">
+  <a href="https://drive.google.com/file/d/1pjVrkYHvCMjRV1PDzOTG5wH3hKG_bjJQ/view?usp=sharing" style="text-decoration: none; margin-left: 10px;">
+    <img src="https://img.icons8.com/?size=512&id=44834&format=png" alt="Resume" width="55px" height="65px" style="vertical-align: middle;" />
+     Resume </a>
 </p>
 <h3 align="center">A Multilingual Software Developer & Learner <br></h3>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rawhit02&label=Profile%20views&color=0e75b6&style=flat" alt="rawhit02" /> </p>
