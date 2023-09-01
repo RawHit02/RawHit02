@@ -1,18 +1,20 @@
-<h1 align="center"> Hey, Rohit This Side :wave:
-   <p align="right">
+<h1 align="center"; color=red;>Hey, Rohit This Side :wave:
+
+<p align="right">
   <a href="https://drive.google.com/file/d/1pjVrkYHvCMjRV1PDzOTG5wH3hKG_bjJQ/view?usp=sharing" style="text-decoration: none; margin-left: 10px;">
     <img src="https://img.icons8.com/?size=512&id=44834&format=png" alt="Resume" width="55px" height="65px" style="vertical-align: middle;" />
-    Resume
-  </a>
+     Resume </a>
 </p>
-<img src="[https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png](https://imgs.search.brave.com/kDflxNyq3zLB4E-D_GKRug7H1bHaj0Wndy4iEKf9DXQ/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pMC53/cC5jb20vZnJvZ2Rl/c2lnbi5ueWMzLmNk/bi5kaWdpdGFsb2Nl/YW5zcGFjZXMuY29t/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDIw/LzA4LzA0MTkyNDMw/L0FJX2Rlc2lnbmlu/Zy13aXRoLWRhdGEu/Z2lm.gif)"alt="Hello world" height="200" width="1000">
- 
-  
-</h1>
-<h3 align="center">A Multilingual Software Developer & Learner <br></h3>
+<img align="center" alt="coding" width="600" height="200" src="https://imgs.search.brave.com/3sG03PYb04E9KGWf1stpEeMOitXpwKw_1Cf0QlAOuao/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pMC53/cC5jb20vY2RuLmRy/aWJiYmxlLmNvbS91/c2Vycy8xNzYwMzkv/c2NyZWVuc2hvdHMv/OTAyMjkyOS9tZWRp/YS9iMjEzOTJkNTEz/NTVkOTljN2I4MmE1/ZmVkZjJjNGY4NS5n/aWY.gif" style="border-radius: 15px;">
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rawhit02&label=Profile%20views&color=0e75b6&style=flat" alt="rawhit02" /> </p>
-<hr>
+<br>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
+<h3 align="center">A Multilingual Software Developer & Learner <br></h3>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rawhit02&label=Profile%20views&color=0e75b6&style=flat" alt="rawhit02" /> </p>
+<hr> -->
 
 <img align="right" alt="coding" width="420" src="https://ozoneunited.com/wp-content/uploads/2023/03/animation_640_ldvo3nr6-min-1.gif">
 
