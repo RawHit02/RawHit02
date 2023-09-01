@@ -5,7 +5,7 @@
     Resume
   </a>
 </p>
-  <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png"alt="Hello world" height="300" width="1100">
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png"alt="Hello world" height="250" width="1200">
  
   
 </h1>
