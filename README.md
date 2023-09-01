@@ -6,6 +6,7 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
 </p>
+   <img align="left" alt="coding" height="70" width="70" src="https://ph-files.imgix.net/a77c8b8a-ab36-4999-a0c7-717b318c2ba8.gif?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=max&dpr=1">
   <p align="right">
   <a href="https://drive.google.com/file/d/1pjVrkYHvCMjRV1PDzOTG5wH3hKG_bjJQ/view?usp=sharing" style="text-decoration: none; margin-left: 10px;">
     <img src="https://img.icons8.com/?size=512&id=44834&format=png" alt="Resume" width="55px" height="65px" style="vertical-align: middle; border-radius: 20px; border: 2px solid #000;" />
@@ -16,7 +17,7 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rawhit02&label=Profile%20views&color=0e75b6&style=flat" alt="rawhit02" /> </p>
  -->
 
-<img align="right" alt="coding" width="420" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47p9mja9ulwgrv2gke990p91zq3dtujndntec9n5zj&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="border-radius:20px; border:2px solid black;">
+<img align="right" alt="coding" height="300" width="350" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47p9mja9ulwgrv2gke990p91zq3dtujndntec9n5zj&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="border-radius: 15px;">
 
 
 - 🔭 Currently working on [DSA](https://leetcode.com/rohitroody47/)
