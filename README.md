@@ -1,6 +1,6 @@
 <h1 align="center"; color=red;>Hey, Rohit This Side :wave:
   <br><br>
-<img align="center" alt="coding" width="600" height="200" src="https://imgs.search.brave.com/3sG03PYb04E9KGWf1stpEeMOitXpwKw_1Cf0QlAOuao/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pMC53/cC5jb20vY2RuLmRy/aWJiYmxlLmNvbS91/c2Vycy8xNzYwMzkv/c2NyZWVuc2hvdHMv/OTAyMjkyOS9tZWRp/YS9iMjEzOTJkNTEz/NTVkOTljN2I4MmE1/ZmVkZjJjNGY4NS5n/aWY.gif" style="border-radius: 15px;">
+<img align="center" alt="coding" width="500" height="200" src="https://media2.giphy.com/media/ve43TyDQ3B4me7d22z/giphy.gif?cid=ecf05e47doqy6gq3g8iac9nxc9c2z8egckgzor1wytalrk6b&ep=v1_gifs_related&rid=giphy.gif&ct=g" style="border-radius: 15px;">
 <br>
 <p align="center"> 
   Visitor count<br>
@@ -8,15 +8,15 @@
 </p>
   <p align="right">
   <a href="https://drive.google.com/file/d/1pjVrkYHvCMjRV1PDzOTG5wH3hKG_bjJQ/view?usp=sharing" style="text-decoration: none; margin-left: 10px;">
-    <img src="https://img.icons8.com/?size=512&id=44834&format=png" alt="Resume" width="55px" height="65px" style="vertical-align: middle;" />
-     Resume </a>
+    <img src="https://img.icons8.com/?size=512&id=44834&format=png" alt="Resume" width="55px" height="65px" style="vertical-align: middle; border-radius: 20px; border: 2px solid #000;" />
+    Resume   
+</a>
 </p>
-<h3 align="center">A Multilingual Software Developer & Learner <br></h3>
+ <h3 align="center">A Multilingual Software Developer & Learner <br><br></h3>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rawhit02&label=Profile%20views&color=0e75b6&style=flat" alt="rawhit02" /> </p>
-<hr> -->
+ -->
 
-<img align="right" alt="coding" width="420" src="https://ozoneunited.com/wp-content/uploads/2023/03/animation_640_ldvo3nr6-min-1.gif">
-
+<img align="right" alt="coding" width="420" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47p9mja9ulwgrv2gke990p91zq3dtujndntec9n5zj&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="border-radius:20px; border:2px solid black;">
 
 
 - 🔭 Currently working on [DSA](https://leetcode.com/rohitroody47/)
