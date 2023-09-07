@@ -1,6 +1,6 @@
 <h1 align="center"; color=red;>Hey, Rohit This Side :wave:
   <br><br>
-<img align="center" alt="coding" width="500" height="200" src="https://media2.giphy.com/media/ve43TyDQ3B4me7d22z/giphy.gif?cid=ecf05e47doqy6gq3g8iac9nxc9c2z8egckgzor1wytalrk6b&ep=v1_gifs_related&rid=giphy.gif&ct=g" style="border-radius: 15px;">
+<img align="center" alt="coding" width="450" height="200" src="https://media2.giphy.com/media/ve43TyDQ3B4me7d22z/giphy.gif?cid=ecf05e47doqy6gq3g8iac9nxc9c2z8egckgzor1wytalrk6b&ep=v1_gifs_related&rid=giphy.gif&ct=g" style="border-radius: 15px;">
 <br>
 <p align="center"> 
   Visitor count<br>
