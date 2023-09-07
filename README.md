@@ -20,7 +20,7 @@
  <h3 align="center">A Multilingual Software Developer & Learner <br><br></h3>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rawhit02&label=Profile%20views&color=0e75b6&style=flat" alt="rawhit02" /> </p>
  -->
-<img align="right" alt="coding" width="250" height="200" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47p9mja9ulwgrv2gke990p91zq3dtujndntec9n5zj&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="border-radius: 15px;">
+<img align="right" alt="coding" width="300" height="300" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47p9mja9ulwgrv2gke990p91zq3dtujndntec9n5zj&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="border-radius: 15px;">
 
 - 🔭 Currently working on [DSA](https://leetcode.com/rohitroody47/) and [Frontend](https://www.frontendmentor.io/profile/RawHit02)
 
