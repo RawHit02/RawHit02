@@ -9,7 +9,7 @@
    <img align="left" alt="coding" height="70" width="70" src="https://ph-files.imgix.net/a77c8b8a-ab36-4999-a0c7-717b318c2ba8.gif?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=max&dpr=1">
   <p align="right">
   <a href="https://drive.google.com/file/d/1pjVrkYHvCMjRV1PDzOTG5wH3hKG_bjJQ/view?usp=sharing" style="text-decoration: none; margin-left: 10px;">
-    <img src="https://img.icons8.com/?size=512&id=44834&format=png" alt="Resume" width="55px" height="65px" style="vertical-align: middle; border-radius: 20px; border: 2px solid #000;" />
+    <img src="https://img.icons8.com/?size=512&id=44834&format=png" alt="Resume" width="55px" height="65px" style="vertical-align: middle;" />
     Resume   
 </a>
 </p>
