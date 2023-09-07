@@ -49,7 +49,8 @@
 <br>
 
 # 📊 GitHub Stats  <img align="right" alt="coding" height="100" width="150" src="https://media2.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47xy7z9nhrxfaopqx4vuim6kzxvez0rpv7j949hrv1&ep=v1_gifs_search&rid=giphy.gif&ct=g"> 
-<br><br>![](https://github-readme-stats.vercel.app/api?username=RawHit02&theme=light&hide_border=true&include_all_commits=true&count_private=true) <br/>
+<br><br><br>
+![](https://github-readme-stats.vercel.app/api?username=RawHit02&theme=light&hide_border=true&include_all_commits=true&count_private=true) <br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RawHit02&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RawHit02&theme=light&hide_border=true&include_all_commits=true&count_private=true&layout=compact)\
 <br>
