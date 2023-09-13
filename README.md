@@ -1,5 +1,13 @@
-<h1 align="center"; color=red;>Hey, Rohit This Side :wave:
-  :)<br> </br>
+ <div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
+    <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="30px">
+    <br>
+    <a href="https://git.io/typing-svg">
+        <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Chango&color=000000&size=30&lines=!!👁️+ROHIT+This+Side;">
+    </a>
+</div>
+
+
+<h1 align="center"; color=red;>   
 <img align="center" alt="coding" width="450" height="200" src="https://media2.giphy.com/media/ve43TyDQ3B4me7d22z/giphy.gif?cid=ecf05e47doqy6gq3g8iac9nxc9c2z8egckgzor1wytalrk6b&ep=v1_gifs_related&rid=giphy.gif&ct=g" style="border-radius: 15px;">
 <br>
   <br>
@@ -39,7 +47,19 @@
 <br>
 
 # 🌐 Socials: <img align="right" alt="coding" height="100" width="150" src="https://media2.giphy.com/media/3GSoFVODOkiPBFArlu/giphy.gif?cid=ecf05e47ryhh8ake6y12pl2welkd5nkicyp2a7xz27ayb8aq&ep=v1_gifs_search&rid=giphy.gif&ct=g">
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rohit_panwar_.__/) >> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohit-panwar-/) 
+</br>	
+<a target="_blank" href="https://www.linkedin.com/in/rohit-panwar-/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" width = "100" height = "30"></img></a>
+&emsp;
+<a target="_blank" href="mailto:rohit.panwarr22@gmail.com"
+><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" width = "100" height = "30"></img></a>
+&emsp;
+<a target="_blank" href="https://www.instagram.com/rohit_panwar_.__/?next=%2F"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" width = "100" height = "30"></img></a>
+&emsp;
+<a target="_blank" href="https://leetcode.com/Rohit_Panwar/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" width = "100" height = "30" ></img></a>
+&emsp;
+<a target="_blank" href=""
+><img src="https://1000logos.net/wp-content/uploads/2017/06/Color-Twitter-Logo.jpg" width = "100" height = "30"></img></a>
+
 <br>
 <br>
 
