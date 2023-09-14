@@ -2,7 +2,7 @@
     <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="30px">
     <br>
     <a href="https://git.io/typing-svg">
-        <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Chango&color=000000&size=30&lines=!!👁️+ROHIT+This+Side;">
+        <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Chango&color=000000&size=30&lines=👻+ROHIT+This+Side🥤;">
     </a>
 </div>
 
