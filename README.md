@@ -2,27 +2,27 @@
     <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="30px">
     <br>
     <a href="https://git.io/typing-svg">
-        <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Chango&color=000000&size=30&lines=👻+ROHIT+This+Side🥤;">
+        <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Chango&color=000000&size=30&lines=👻+WELCOME+TO+🥤;">
     </a>
 </div>
 
+<p align="center"> 
+  <img  align="center"  alt="coding" width="450" height="200" src="https://media1.giphy.com/media/ve43TyDQ3B4me7d22z/giphy.gif?cid=ecf05e47dreahae9t4eoukph6oz8f6wiqfvgogqeu5g947af&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="border-radius: 15px;" />
+</p>
 
-<h1 align="center"; color=red;>   
-<img align="center" alt="coding" width="450" height="200" src="https://media1.giphy.com/media/ve43TyDQ3B4me7d22z/giphy.gif?cid=ecf05e47dreahae9t4eoukph6oz8f6wiqfvgogqeu5g947af&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="border-radius: 15px;">
-<br>
-  <br>
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
 </p>
   
   <img align="left" alt="coding" height="70" width="70" src="https://ph-files.imgix.net/a77c8b8a-ab36-4999-a0c7-717b318c2ba8.gif?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=max&dpr=1">
+<h1>   
 
   
   <p align="right">
   <a href="https://drive.google.com/file/d/1pjVrkYHvCMjRV1PDzOTG5wH3hKG_bjJQ/view?usp=sharing" style="text-decoration: none; margin-left: 10px;">
     <img src="https://img.icons8.com/?size=512&id=44834&format=png" alt="Resume" width="55px" height="65px" style="vertical-align: middle;" />
-    Resume   
+    Resume   
 </a>
 </p>
  <h3 align="center">A Multilingual Software Developer & Learner <br><br></h3>
