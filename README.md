@@ -1,9 +1,9 @@
  <div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
     <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="30px">
     <br>
-    <a href="https://git.io/typing-svg">
-        <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Chango&color=000000&size=30&lines=👻+WELCOME+TO+🥤;">
-    </a>
+     <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=62F7F3&size=25&lines=👻+Hello+there!!!..">
+  </a>
 </div>
 
 <p align="center"> 
